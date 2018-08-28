@@ -1,7 +1,8 @@
 # NetDetector
-通过使用BroadcastReceiver来检测Android设备网络变化的库
-
-这里基于[tianma8023/NetDetector: A simple library that can detect network state changes on Android device. / 通过使用BroadcastReceiver来检测Android设备网络变化的库 ](https://github.com/tianma8023/NetDetector)
+* 通过使用BroadcastReceiver来检测Android设备网络变化的库,这里基于[tianma8023/NetDetector: A simple library that can detect network state changes on Android device. / 通过使用BroadcastReceiver来检测Android设备网络变化的库 ](https://github.com/tianma8023/NetDetector)
+* 该库的使用： [使用教程](./该库的使用.md)
+* 源码介绍请移步 [原理分析&源码介绍](./introduction.md)
+* Apk体验链接：
 
 ## 效果图
 ![image](./art/jietu.gif)
