@@ -5,7 +5,7 @@
 * Apk体验链接：[app-release.apk](./apk/app-release.apk)
 
 ## 效果图
-![image](./art/jietu1.gif)
+![image](./art/jietu.gif)
 
 
 ## 背景
