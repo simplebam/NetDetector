@@ -83,3 +83,4 @@
 ### 同等优秀的库
 * [GHdeng/NetMonitor: 使用广播监听网络变化更新UI ](https://github.com/GHdeng/NetMonitor)
   * 这个库也很好，也推荐伙伴们去使用哈。
+* [[23]—— 10分钟让你实现在APP中对网络状态变化进行全局提示 - 简书 ](https://www.jianshu.com/p/aa3a39dcc3af)
